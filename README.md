@@ -1,6 +1,6 @@
 John Baskerville
 ================
-[Version 1](https://eleventhirty.github.io/john_baskerville/baskerville-one.html)
+[Version 1](https://eleventhirty.github.io/john_baskerville/baskerville-one.html)   
 *02 November 2020*  
 Created my first webpage marking up some plain text asn an HTML5 page.
 
