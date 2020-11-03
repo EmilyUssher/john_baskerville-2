@@ -9,4 +9,5 @@ Adding my first proper web page marking up some plain text with HTML5.
 
 History of Type
 ===============
-[Version 1](https://eleventhirty.github.io/john_baskerville/)  
+[Version 1](https://eleventhirty.github.io/john_baskerville/history-one.html) 
+
