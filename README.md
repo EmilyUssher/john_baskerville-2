@@ -8,6 +8,14 @@ Adding my first proper web page marking up some plain text with HTML5.
 *09 November 2020*  
 Adding CSS to my HTML5 web page.
 
+[Version 3](https://EmilyUssher.github.io/john_baskerville-2/baskerville-three.html)
+*16 November 2020
+Adding the navigation bar
+
+[Version 4](https://EmilyUssher.github.io/john_baskerville-2/baskerville-four.html)
+*23 November 2020*
+Adding a table to my HTML5 and designing it in CSS
+
 History of Type
 ===============
 [Version 1](https://EmilyUssher.github.io/john_baskerville-2/history-2.html)
